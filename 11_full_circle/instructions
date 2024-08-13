@@ -1,0 +1,8 @@
+Instructions
+Now that you can tell the difference between pure and impure functions, let’s try it out.
+
+Create a pure function to calculate the area of a circle given its radius.
+
+1_Define a calculate_circle_area() function that takes the radius of the circle as input.
+2_Compute the area of the circle using the formula: area=π∗r
+3_Return the result.
